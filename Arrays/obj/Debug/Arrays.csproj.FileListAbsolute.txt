@@ -1,0 +1,12 @@
+F:\Navid\Projects\Arrays\Arrays\bin\Debug\Arrays.exe.config
+F:\Navid\Projects\Arrays\Arrays\bin\Debug\Arrays.exe
+F:\Navid\Projects\Arrays\Arrays\bin\Debug\Arrays.pdb
+F:\Navid\Projects\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+F:\Navid\Projects\Arrays\Arrays\obj\Debug\Arrays.ArraysProgram.resources
+F:\Navid\Projects\Arrays\Arrays\obj\Debug\Arrays.Properties.Resources.resources
+F:\Navid\Projects\Arrays\Arrays\obj\Debug\Arrays.csproj.GenerateResource.cache
+F:\Navid\Projects\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+F:\Navid\Projects\Arrays\Arrays\obj\Debug\Arrays.exe
+F:\Navid\Projects\Arrays\Arrays\obj\Debug\Arrays.pdb
+F:\Navid\Projects\Arrays\Arrays\obj\Debug\Arrays.GettingStart.resources
+F:\Navid\Projects\Arrays\Arrays\obj\Debug\Arrays.Settings.resources
